@@ -94,4 +94,4 @@ Identify patterns in order frequency based on time.
 <img src="https://github.com/Shrutiijoshi/Restaurant-Order-Analysis/blob/main/CODE/highest_spent.PNG" alt="highest_spent" width="500" height="400"/>
 
 18. View the details of the top 5 highest spend orders
-<img src="https://github.com/Shrutiijoshi/Restaurant-Order-Analysis/blob/main/CODE/top_5_highest_spent.PNG" alt="top_5_highest_spent" width="800" height="600"/>
+<img src="https://github.com/Shrutiijoshi/Restaurant-Order-Analysis/blob/main/CODE/top_5_highest_spent.PNG" alt="top_5_highest_spent" width="1000" height="600"/>
