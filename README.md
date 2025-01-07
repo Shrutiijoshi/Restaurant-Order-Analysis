@@ -81,7 +81,7 @@ Identify patterns in order frequency based on time.
 <img src="https://github.com/Shrutiijoshi/Restaurant-Order-Analysis/blob/main/CODE/more_than_12_items.PNG" alt="more_than_12_items" width="300" height="400"/>
 
 14. Combine the menu_items and order_details tables into a single table
-<img src="https://github.com/Shrutiijoshi/Restaurant-Order-Analysis/blob/main/CODE/combined_data.PNG" alt="combined_data" width="500" height="400"/>
+<img src="https://github.com/Shrutiijoshi/Restaurant-Order-Analysis/blob/main/CODE/combined_data.PNG" alt="combined_data" width="700" height="400"/>
 
 15. What were the least and most ordered items? What categories were they in?
 <img src="https://github.com/Shrutiijoshi/Restaurant-Order-Analysis/blob/main/CODE/most_combined.PNG" alt="most_combined" width="600" height="100"/>
@@ -94,4 +94,4 @@ Identify patterns in order frequency based on time.
 <img src="https://github.com/Shrutiijoshi/Restaurant-Order-Analysis/blob/main/CODE/highest_spent.PNG" alt="highest_spent" width="500" height="400"/>
 
 18. View the details of the top 5 highest spend orders
-<img src="https://github.com/Shrutiijoshi/Restaurant-Order-Analysis/blob/main/CODE/top_5_highest_spent.PNG" alt="top_5_highest_spent" width="500" height="600"/>
+<img src="https://github.com/Shrutiijoshi/Restaurant-Order-Analysis/blob/main/CODE/top_5_highest_spent.PNG" alt="top_5_highest_spent" width="800" height="600"/>
