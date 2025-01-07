@@ -40,58 +40,58 @@ Identify patterns in order frequency based on time.
 
 ## Query task :
 1. View the menu_items table
-<img src="https://github.com/Shrutiijoshi/Restaurant-Order-Analysis/blob/main/CODE/menu_items.png" alt="myql-logo" width="600" height="200"/>
+<img src="https://github.com/Shrutiijoshi/Restaurant-Order-Analysis/blob/main/CODE/menu_items.PNG" alt="menu_items" width="600" height="200"/>
 
 2. write a query to find the number of items on the menu
-<img src="https://github.com/Shrutiijoshi/Restaurant-Order-Analysis/blob/main/CODE/no_of_items.png" alt="myql-logo" width="400" height="250"/>
+<img src="https://github.com/Shrutiijoshi/Restaurant-Order-Analysis/blob/main/CODE/no_of_items.PNG" alt="no_of_items" width="400" height="250"/>
 
 3. What are the least and most expensive items on the menu?
-<img src="https://github.com/Shrutiijoshi/Restaurant-Order-Analysis/blob/main/CODE/most_expensive_item.png" alt="myql-logo" width="300" height="200"/>
-<img src="https://github.com/Shrutiijoshi/Restaurant-Order-Analysis/blob/main/CODE/least_expensive_item.png" alt="myql-logo" width="300" height="200"/>
+<img src="https://github.com/Shrutiijoshi/Restaurant-Order-Analysis/blob/main/CODE/most_expensive_item.PNG" alt="most_expensive_item" width="300" height="200"/>
+<img src="https://github.com/Shrutiijoshi/Restaurant-Order-Analysis/blob/main/CODE/least_expensive_item.PNG" alt="least_expensive_item" width="300" height="200"/>
 
 4. How many Italian dishes are on the menu?
-<img src="https://github.com/Shrutiijoshi/Restaurant-Order-Analysis/blob/main/CODE/no_of_italian_dishes.png" alt="myql-logo" width="300" height="200"/>
+<img src="https://github.com/Shrutiijoshi/Restaurant-Order-Analysis/blob/main/CODE/no_of_italian_dishes.PNG" alt="no_of_italian_dishes" width="300" height="200"/>
 
 5. What are the least and most expensive Italian dishes on the menu?
-<img src="https://github.com/Shrutiijoshi/Restaurant-Order-Analysis/blob/main/CODE/most_expensive_italian_dish.png" alt="myql-logo" width="300" height="200"/>
-<img src="https://github.com/Shrutiijoshi/Restaurant-Order-Analysis/blob/main/CODE/least_expensive_italian_dish.png" alt="myql-logo" width="300" height="200"/>
+<img src="https://github.com/Shrutiijoshi/Restaurant-Order-Analysis/blob/main/CODE/most_expensive_italian_dish.PNG" alt="most_expensive_italian_dish" width="300" height="200"/>
+<img src="https://github.com/Shrutiijoshi/Restaurant-Order-Analysis/blob/main/CODE/least_expensive_italian_dish.PNG" alt="least_expensive_italian_dish" width="300" height="200"/>
 
 6. How many dishes are in each category?
-<img src="https://github.com/Shrutiijoshi/Restaurant-Order-Analysis/blob/main/CODE/no_of_dishes_by_category.png" alt="myql-logo" width="300" height="200"/>
+<img src="https://github.com/Shrutiijoshi/Restaurant-Order-Analysis/blob/main/CODE/no_of_dishes.PNG" alt="no_of_dishes" width="300" height="200"/>
 
 7. What is the average dish price within each category?
-<img src="https://github.com/Shrutiijoshi/Restaurant-Order-Analysis/blob/main/CODE/avg_price_by_category.png" alt="myql-logo" width="300" height="200"/>
+<img src="https://github.com/Shrutiijoshi/Restaurant-Order-Analysis/blob/main/CODE/avg_dish_price.PNG" alt="avg_dish_price" width="300" height="200"/>
 
 8. View the order_details table
-<img src="https://github.com/Shrutiijoshi/Restaurant-Order-Analysis/blob/main/CODE/order_details.png" alt="myql-logo" width="300" height="200"/>
+<img src="https://github.com/Shrutiijoshi/Restaurant-Order-Analysis/blob/main/CODE/order_details.PNG" alt="order_details" width="300" height="200"/>
 
 9. What is the date range of the table?
-<img src="https://github.com/Shrutiijoshi/Restaurant-Order-Analysis/blob/main/CODE/date_range.png" alt="myql-logo" width="300" height="200"/>
+<img src="https://github.com/Shrutiijoshi/Restaurant-Order-Analysis/blob/main/CODE/date_range.PNG" alt="date_range" width="300" height="200"/>
 
 10. How many orders were made within this date range?
-<img src="https://github.com/Shrutiijoshi/Restaurant-Order-Analysis/blob/main/CODE/orders_made.png" alt="myql-logo" width="300" height="200"/>
+<img src="https://github.com/Shrutiijoshi/Restaurant-Order-Analysis/blob/main/CODE/orders_made.PNG" alt="orders_made" width="300" height="200"/>
 
 11.  How many items were ordered within this date range?
-<img src="https://github.com/Shrutiijoshi/Restaurant-Order-Analysis/blob/main/CODE/items_ordered.png" alt="myql-logo" width="300" height="200"/>
+<img src="https://github.com/Shrutiijoshi/Restaurant-Order-Analysis/blob/main/CODE/items_ordered.PNG" alt="items_ordered" width="300" height="200"/>
 
 12. Which orders had the most number of items?
-<img src="https://github.com/Shrutiijoshi/Restaurant-Order-Analysis/blob/main/CODE/no_of_items_by_order_id.png" alt="myql-logo" width="300" height="200"/>
+<img src="https://github.com/Shrutiijoshi/Restaurant-Order-Analysis/blob/main/CODE/no_of_items_by_order_id.PNG" alt="no_of_items_by_order_id" width="300" height="200"/>
 
 13. How many orders had more than 12 items?
-<img src="https://github.com/Shrutiijoshi/Restaurant-Order-Analysis/blob/main/CODE/more_than_12_items.png" alt="myql-logo" width="300" height="400"/>
+<img src="https://github.com/Shrutiijoshi/Restaurant-Order-Analysis/blob/main/CODE/more_than_12_items.PNG" alt="more_than_12_items" width="300" height="400"/>
 
 14. Combine the menu_items and order_details tables into a single table
-<img src="https://github.com/Shrutiijoshi/Restaurant-Order-Analysis/blob/main/CODE/combined.png" alt="myql-logo" width="500" height="400"/>
+<img src="https://github.com/Shrutiijoshi/Restaurant-Order-Analysis/blob/main/CODE/combined_data.PNG" alt="combined_data" width="500" height="400"/>
 
 15. What were the least and most ordered items? What categories were they in?
-<img src="https://github.com/Shrutiijoshi/Restaurant-Order-Analysis/blob/main/CODE/most_combined.png" alt="myql-logo" width="600" height="100"/>
-<img src="https://github.com/Shrutiijoshi/Restaurant-Order-Analysis/blob/main/CODE/least_combined.png" alt="myql-logo" width="600" height="100"/>
+<img src="https://github.com/Shrutiijoshi/Restaurant-Order-Analysis/blob/main/CODE/most_combined.PNG" alt="most_combined" width="600" height="100"/>
+<img src="https://github.com/Shrutiijoshi/Restaurant-Order-Analysis/blob/main/CODE/least_combined.PNG" alt="least_combined" width="600" height="100"/>
 
 16. What were the top 5 orders that spent the most money?
-<img src="https://github.com/Shrutiijoshi/Restaurant-Order-Analysis/blob/main/CODE/top_5.png" alt="myql-logo" width="300" height="300"/>
+<img src="https://github.com/Shrutiijoshi/Restaurant-Order-Analysis/blob/main/CODE/top_5.PNG" alt="top_5" width="300" height="300"/>
 
 17. View the details of the highest spend order. Which specific items were purchased?
-<img src="https://github.com/Shrutiijoshi/Restaurant-Order-Analysis/blob/main/CODE/highest_spent.png" alt="myql-logo" width="500" height="400"/>
+<img src="https://github.com/Shrutiijoshi/Restaurant-Order-Analysis/blob/main/CODE/highest_spent.PNG" alt="highest_spent" width="500" height="400"/>
 
 18. View the details of the top 5 highest spend orders
-<img src="https://github.com/Shrutiijoshi/Restaurant-Order-Analysis/blob/main/CODE/bonus.png" alt="myql-logo" width="500" height="600"/>
+<img src="https://github.com/Shrutiijoshi/Restaurant-Order-Analysis/blob/main/CODE/top_5_highest_spent.PNG" alt="top_5_highest_spent" width="500" height="600"/>
